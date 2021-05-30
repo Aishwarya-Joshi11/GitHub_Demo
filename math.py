@@ -13,6 +13,3 @@ def divide(x,y):
 	return DIVIDE_BY_O_ERROR
     else:
 	return x/y      # on Bug456 branch
-# Sqauare Implemetation
-def square(x):
-    pass
