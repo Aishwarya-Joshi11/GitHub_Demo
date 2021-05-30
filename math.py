@@ -6,7 +6,7 @@ def subtract(x,y):
     return 2  #on aishwarya_joshi branch
 #Multiply Implemetation
 def multiply(x,y):
-    return x*y # on Bug456
+    return x*y*5 # on Bug456
 #Divide Implemetation
 def divide(x,y):
     if y==0:
