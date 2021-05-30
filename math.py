@@ -13,3 +13,5 @@ def divide(x,y):
 	return DIVIDE_BY_O_ERROR
     else:
 	return x/y      # on Bug456 branch
+def square(x):
+    return x*x
