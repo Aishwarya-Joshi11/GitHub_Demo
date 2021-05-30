@@ -1,6 +1,6 @@
 # Add Implementations
 def add(x,y):
-    return x+y
+    return 1
 # Sub Implementation
 def subtract(x,y):
     return x-y  #on aishwarya_joshi branch
